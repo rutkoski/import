@@ -1,0 +1,20 @@
+{
+    "name": "rutkoski/import",
+    "type": "library",
+    "description": "Import",
+    "keywords": ["PHP","import","csv","xls"],
+    "homepage": "https://github.com/rutkoski/import",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Rodrigo Rutkoski Rodrigues",
+            "email": "rutkoski@gmail.com"
+        }
+    ],
+    "require": {
+        "rutkoski/simplify": "dev-master"
+    },
+    "autoload": {
+        "files": ["lib/autoload.php"]
+    }
+}

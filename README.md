@@ -1,4 +1,3 @@
-import
-======
+# Import
 
-Import data from xls/csv files into database.
+Import data from xls/xlsx/csv files into database.
